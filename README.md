@@ -1,1 +1,1 @@
-This is a project to make practices in the Javascript area. Including methods and class
+This is a project to make practices in the Javascript area. Including arrowFunctions, methods and class
